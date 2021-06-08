@@ -6,3 +6,4 @@ Test Skill ♥
 -e "\n Try this one" 
 "\n Try this one" 
 "Try this one" 
+"/nTry this one" 
